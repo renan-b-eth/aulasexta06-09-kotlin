@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="Calcular" />
+    <string name="Calcular2">Calcular\n</string>
+    <string name="Calculadora">CALCULADORA\n</string>
+</resources>
